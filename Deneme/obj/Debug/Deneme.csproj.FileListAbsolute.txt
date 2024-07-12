@@ -1,0 +1,15 @@
+C:\Users\RENYS\source\repos\Deneme\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\RENYS\source\repos\Deneme\Deneme\bin\Debug\Deneme.exe
+C:\Users\RENYS\source\repos\Deneme\Deneme\bin\Debug\Deneme.pdb
+C:\Users\RENYS\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\RENYS\source\repos\Deneme\Deneme\obj\Debug\Deneme.Form1.resources
+C:\Users\RENYS\source\repos\Deneme\Deneme\obj\Debug\Deneme.Properties.Resources.resources
+C:\Users\RENYS\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.GenerateResource.cache
+C:\Users\RENYS\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\RENYS\source\repos\Deneme\Deneme\obj\Debug\Deneme.exe
+C:\Users\RENYS\source\repos\Deneme\Deneme\obj\Debug\Deneme.pdb
+C:\Users\RENYS\source\repos\Deneme\Deneme\bin\Debug\agq\Deneme.resources.dll
+C:\Users\RENYS\source\repos\Deneme\Deneme\obj\Debug\Deneme.Form1.agq.resources
+C:\Users\RENYS\source\repos\Deneme\Deneme\obj\Debug\agq\Deneme.resources.dll
+C:\Users\RENYS\source\repos\Deneme\Deneme\obj\Debug\Deneme.Form2.resources
+C:\Users\RENYS\source\repos\Deneme\Deneme\obj\Debug\Deneme.Form3.resources
