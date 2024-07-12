@@ -42,13 +42,23 @@ namespace Deneme
         }
 
     }
-   /* class BirinciSinif : Ogrenci
-    {
-        private string ders;
-        public string Ders
-        {
-            get { return ders; }
-            set { ders = value; }
-        }
-    }*/
+    /* class BirinciSinif : Ogrenci
+     {
+         private string ders;
+         public string Ders
+         {
+             get { return ders; }
+             set { ders = value; }
+         }
+     }*/
+
+    /* class BirinciSinif : Ogrenci
+ {
+     private string ders;
+     public string Ders
+     {
+         get { return ders; }
+         set { ders = value; }
+     }
+ }*/
 }
